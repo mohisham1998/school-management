@@ -1,0 +1,56 @@
+<?php
+
+return [
+
+    'personal_information' => 'المعلومات الشخصية',
+    'name' => 'اسم الطالب',
+    'name_ar' => 'الاسم باللغة العربية',
+    'name_en' => 'الاسم باللغة الانجليزية',
+    'email' => 'البريد الالكتروني',
+    'password' => 'كلمة المرور',
+     'gender' => 'النوع',
+     'Nationality' => 'الجنسية',
+     'blood_type' => 'فصلية الدم',
+     'Date_of_Birth' => 'تاريخ الميلاد',
+     'Grade' => 'المرحلة الدراسية',
+     'classrooms' => 'الصف الدراسي',
+     'section' => 'القسم',
+     'parent' => 'ولي الامر',
+     'academic_year' => 'السنة الدراسية',
+     'Processes' => 'العمليات',
+     'submit' => 'تاكيد',
+     'Close' => 'اغلاق',
+    'Attachments' => 'المرفقات',
+    'Student_details' => 'معلومات الطالب',
+    'Father_details' => 'معلومات الاب',
+    'Mother_details' => 'معلومات الام',
+    'Deleted_Student' => 'حذف بيانات الطالب',
+    'Deleted_Student_tilte' => 'هل انت متأكد من حذف الطالب ؟',
+    'Delete_attachment' => 'حذف مرفق',
+    'Delete_attachment_tilte' => 'هل انت متأكد من حذف المرفق ؟',
+    'filename' => 'اسم الملف',
+    'created_at' => 'تاريخ الاضافة',
+    'Download' => 'تحميل',
+    'delete' => 'حذف',
+    'Student_information' => 'معلومات الطالب',
+    'Student_Edit' => 'تعديل طالب',
+    'Father_name' => 'اسم الاب',
+    'Mother_name' => 'اسم الام',
+    'Phone' => 'رقم الهاتف',
+    'Job_title' => 'الوظيفة',
+    'Email' => 'البريد الالكتروني',
+    'National_number' => 'رقم القومي',
+    'Undo_all' => 'تراجع الكل',
+        'Undo' => 'تراجع',
+    'Graduate' => 'تخرج',
+    'Grade_old' => ' المرحلة الدراسية القديمة',
+    'Grade_new' => ' المرحلة الدراسية الجديدة',
+    'Modal_rollback_all_students' => 'هل انت متاك من عملية تراجع كافة الطلاب ؟',
+    'Modal_rollback_all_student' => 'هل انت متاك من عملية تراجع الطلاب ؟',
+     'Student_undo' => ' تراجع طالب',
+
+
+
+
+
+];
